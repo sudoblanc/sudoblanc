@@ -1,4 +1,5 @@
 ### Hi there 👋
+Information Security learner here. What drives me to be here? Most of thre results out of my curiosity and efforts to learn has been on backend and undocumented. I believe these curiosity could be shared as a piece of my art. 
 
 <!--
 **sudoblanc/sudoblanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
