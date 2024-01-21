@@ -12,7 +12,9 @@ Information Security learner here. What drives me to be here? Most of the result
 - AWS
 - Shell Scripting to automate
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+**Skills**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,powershell,regex,py,mysql,js,html,css,aws)](https://skillicons.dev)
   
 
 **- 📫 How to reach me:**
