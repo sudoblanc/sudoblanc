@@ -11,6 +11,8 @@ Information Security learner here. What drives me to be here? Most of the result
 **- 🌱 I’m currently learning**
 - AWS
 - Shell Scripting to automate
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   
 
 **- 📫 How to reach me:**
