@@ -14,8 +14,13 @@ Information Security learner here. What drives me to be here? Most of the result
 
 **Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,powershell,regex,py,mysql,js,html,css,aws)](https://skillicons.dev)
-  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,powershell,vim,regex,py,mysql,js,html,css,aws" />
+  </a>
+</p>
+
+
 
 **- 📫 How to reach me:**
 [Twitter](https://twitter.com/sudoblanc) |  [Linked In](https://www.linkedin.com/in/rohankarkiii/)
