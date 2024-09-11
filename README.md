@@ -1,5 +1,5 @@
 ### Hi there 👋
-Information Security learner here. What drives me to be here? Most of the results out of my curiosity and efforts to learn has been on backend and undocumented. I believe these curiosity could be shared as a piece of my art. 
+Hello Internet, Information Security learner here. What drives me to be here? Most of the results out of my curiosity and efforts to learn has been on backend and undocumented. I believe these curiosity could be shared among passionate individuals . 
 
 **- 🔭 I’m currently working on**
 
@@ -16,7 +16,7 @@ Information Security learner here. What drives me to be here? Most of the result
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,powershell,vim,regex,py,mysql,js,html,css,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,powershell,vim,regex,py,mysql,js,html,css,aws,azure,bash&perline=5" />
   </a>
 </p>
 
