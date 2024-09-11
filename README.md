@@ -16,7 +16,7 @@ Hello Internet, Information Security learner here. What drives me to be here? Mo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,powershell,vim,regex,py,mysql,js,html,css,aws,azure,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,powershell,vim,regex,py,mysql,js,perl,html,css,aws,azure,bash&perline=10" />
   </a>
 </p>
 
