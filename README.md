@@ -9,8 +9,8 @@ Hello Internet, Information Security learner here. What drives me to be here? Mo
 4. Experimenting with different tools and techniques for penetration testing
    
 **- 🌱 I’m currently learning**
-- AWS
-- 
+- AWS Infrastructure
+- Scripting
 
 **Skills**
 
