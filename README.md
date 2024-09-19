@@ -5,8 +5,9 @@ Hello Internet, Information Security learner here. What drives me to be here? Mo
 
 1. [Windows XP Professional (32-bit) exploitation using Exploit databases. ](https://github.com/sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment.git)
 2. Shell Scripting to automate Cisco Catalyst Switches Configs.
-3. Getting AWS Cloud Practioner Certificate
-4. Experimenting with different tools and techniques for penetration testing
+3. Log analysis automation using perl.
+4. Getting AWS Cloud Practioner Certificate
+5. Experimenting with different tools and techniques for penetration testing
    
 **- 🌱 I’m currently learning**
 - AWS Infrastructure
