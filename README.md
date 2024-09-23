@@ -3,11 +3,10 @@ Hello Internet, Information Security learner here. What drives me to be here? Mo
 
 **- 🔭 I’m currently working on**
 
-1. [Windows XP Professional (32-bit) exploitation using Exploit databases. ](https://github.com/sudoblanc/Exploiting-Windows-XP-In-a-close-lab-environment.git)
-2. Shell Scripting to automate Cisco Catalyst Switches Configs.
-3. Log analysis automation using perl.
-4. Getting AWS Cloud Practioner Certificate
-5. Experimenting with different tools and techniques for penetration testing
+1. Shell Scripting to automate Cisco Catalyst Switches Configs.
+2. Log analysis automation using perl.
+3. Getting AWS Cloud Practioner Certificate
+4. Home Lab setup(soon)
    
 **- 🌱 I’m currently learning**
 - AWS Infrastructure
