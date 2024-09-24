@@ -2,9 +2,8 @@
 Hello Internet, Information Security learner here. What drives me to be here? Most of the results out of my curiosity and efforts to learn has been on backend and undocumented. I believe these curiosity could be shared among passionate individuals . 
 
 **- 🔭 I’m currently working on**
-
-1. Shell Scripting to automate Cisco Catalyst Switches Configs.
-2. Log analysis automation using perl.
+1. Log analysis automation using perl.
+2. Shell Scripting to automate Cisco Catalyst Switches Configs.
 3. Getting AWS Cloud Practioner Certificate
 4. Home Lab setup(soon)
    
