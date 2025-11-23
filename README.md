@@ -25,10 +25,10 @@ What drives me to be here? Most of the outcomes of my curiosity and efforts to l
     <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,powershell,vim,regex,py,mysql,js,perl,html,css,aws,azure,bash" />
   </a>
 </p>
+<br>
 
 **Recent Projects**
-[PleaseWipeThis].(https://github.com/sudoblanc/PleaseWipeThis) - A solution made to Automate IBM EXN4000 Wipes through bash script
-
+[PleaseWipeThis](https://github.com/sudoblanc/PleaseWipeThis) - A solution made to Automate IBM EXN4000 Wipes through bash script
 
 
 **- 📫 How to reach me:**
