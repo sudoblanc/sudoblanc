@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ### About Me
-As the tech industry progresses thorugh a lot of changes such as AI integrations, New services, Cloud , infrastructure, network. These become too much for a development team to handle, I work at the heart of FedEx's Information Technology Change funnel, as an intern thats progressing to work as a project management analyst, I hold skills that are necessary to assess impacts on organizational level. I help the organzation as a part of team that analyzes these changes and closely works with solution architects, and Solution engineers.
+As the tech industry progresses through many changes—such as AI integrations, new services, cloud, infrastructure, and networking—these can become overwhelming for a development team to handle. I work at the heart of FedEx's Information Technology Change funnel as an intern progressing toward a role as a project management analyst. I hold skills necessary to assess impacts at the organizational level. I contribute as part of a team that analyzes these changes and works closely with solution architects and solution engineers.
 
-Outside of my work life, keeping myself busy with a thought that I have embraced over time, "Learning never stops and should never stop" is what I walk with. I believe in continuous learning and get myself involved with projects that I love to do. These projects doesn't just reamin under the same unbrella as what I do at work but rather follow a path of personal journey which helps me to reflect and learn. Security, Cloud and Networking has always been the three pillars that stand tall when it comes to my interests but recently AI and Automation is something that I have enjoyed working with.
+Outside of my work life, I keep myself busy with a thought I have embraced over time: "Learning never stops and should never stop." I believe in continuous learning and involve myself in projects I love. These projects don’t remain under the same umbrella as my professional work but instead follow a personal journey that helps me reflect and grow. Security, cloud, and networking have always been the three pillars of my interests, but recently AI and automation have become areas I truly enjoy exploring.
 
-What drives me to be here? Most of the results out of my curiosity and efforts to learn has been on backend and undocumented. I believe these curiosity could be shared among passionate individuals . 
+What drives me to be here? Most of the outcomes of my curiosity and efforts to learn have remained in the backend and undocumented. I believe this curiosity should be shared among passionate individuals.
 
 **- 🔭 I’m currently working on**
 1. SAFE Agile Certification
