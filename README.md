@@ -28,9 +28,9 @@ What drives me to be here? Most of the outcomes of my curiosity and efforts to l
 <br>
 
 **Recent Projects**
-[PleaseWipeThis](https://github.com/sudoblanc/PleaseWipeThis) - A solution made to Automate IBM EXN4000 Wipes through bash script.
-[Cisco Wipe Automation](https://github.com/sudoblanc/Cisco-Switch-Automation) script to automate wiping of CISCO Catalyst 3850.
-[Windows XP Exploitation](https://github.com/sudoblanc/Cisco-Switch-Automation) Exploiting-Windows-XP-In-a-closed-lab-environment.
+[PleaseWipeThis](https://github.com/sudoblanc/PleaseWipeThis) - A solution made to Automate IBM EXN4000 Wipes through bash script.<br>
+[Cisco Wipe Automation](https://github.com/sudoblanc/Cisco-Switch-Automation) script to automate wiping of CISCO Catalyst 3850.<br>
+[Windows XP Exploitation](https://github.com/sudoblanc/Cisco-Switch-Automation) Exploiting-Windows-XP-In-a-closed-lab-environment.<br>
 
 **- 📫 How to reach me:**
 [Twitter](https://twitter.com/sudoblanc) |  [Linked In](https://www.linkedin.com/in/rohankarkiii/)
