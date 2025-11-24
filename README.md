@@ -32,6 +32,8 @@ What drives me to be here? Most of the outcomes of my curiosity and efforts to l
 [Cisco Wipe Automation](https://github.com/sudoblanc/Cisco-Switch-Automation) script to automate wiping of CISCO Catalyst 3850.<br>
 [Windows XP Exploitation](https://github.com/sudoblanc/Cisco-Switch-Automation) Exploiting-Windows-XP-In-a-closed-lab-environment.<br>
 
+**Access my Resume to see details on work I have done** : [Access Resume Here](https://mymailnku-my.sharepoint.com/:b:/g/personal/karkir2_mymail_nku_edu/IQC-U6rYkJ-aQKTVVYurQoVYASbKHFYuqHN1hZHu1CiXZts?e=G03g1c)
+
 **- 📫 How to reach me:**
 [Twitter](https://twitter.com/sudoblanc) |  [Linked In](https://www.linkedin.com/in/rohankarkiii/)
 
