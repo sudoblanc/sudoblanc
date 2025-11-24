@@ -3,6 +3,11 @@
 ### About Me
 As the tech industry progresses through many changes—such as AI integrations, new services, cloud, infrastructure, and networking—these can become overwhelming for a development team to handle. I work at the heart of FedEx's Information Technology Change funnel as an intern progressing toward a role as a project management analyst. I hold skills necessary to assess impacts at the organizational level. I contribute as part of a team that analyzes these changes and works closely with solution architects and solution engineers.
 
+Some Projects and works I have done as an IT Intern @ FedEx:
+   - Developing PowerBI Dashboard to map technological assets that belongs to different departments
+   - Created a Dataset for team leveraging interal AI RAG system to help resolve triage questions, improving SLA times by 30%
+   - Leveraged Power Automate to enhance existing workflow improving efficieny.
+
 Outside of my work life, I keep myself busy with a thought I have embraced over time: "Learning never stops and should never stop." I believe in continuous learning and involve myself in projects I love. These projects don’t remain under the same umbrella as my professional work but instead follow a personal journey that helps me reflect and grow. Security, cloud, and networking have always been the three pillars of my interests, but recently AI and automation have become areas I truly enjoy exploring.
 
 What drives me to be here? Most of the outcomes of my curiosity and efforts to learn have remained in the backend and undocumented. I believe this curiosity should be shared among passionate individuals.
